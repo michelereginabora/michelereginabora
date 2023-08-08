@@ -73,7 +73,3 @@
 
 </br>
 
-<div style="display: inline_block">
-    <h4>CONTRIBUIÇÕES:</h4>
-   <img height="168em" src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelDecotelli&repo=dio-lab-open-source&theme=vision-friendly-dark"/>   
-</div>
