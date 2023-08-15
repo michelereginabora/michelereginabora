@@ -7,10 +7,10 @@
     <p>👋 Olá! Sou Michele Regina Bora, natural de Guarapuava, PR. ❄️ 🌰 🌲 🌾 🧉 </br>   </br>
       Entusiasta das belas artes, literatura e tecnologia. 🩰 🎵 🎭  🎨 📚 💻 </br>  </br>
       Graduada em Filosofia, mas encontrei meu caminho profissional na TI aos 25 anos. 🎓 φ 🧠 👩‍💻 </br>  </br>
-      Atualmente, atuo em infraestrutura e suporte técnico. 📶 🌐 🔧 💻 </br>  </br>
-      Fascinada por Dados, Machine Learning e Inteligência Artificial, com foco em Python.  🔍 📊 💡 🤖 🐍  </br>  </br>
+      Atualmente, atuo no suporte técnico de um software de gerenciamento empresarial ERP. 📶 🌐 🔧 💻 </br>  </br>
+      Minhas grandes paixões são a linguagem Python, a Análise de Dados, o Machine Learning e a Inteligência Artificial.  🔍 📊 💡 🤖 🐍  </br>  </br>
 
-         Vamos juntos explorar o mundo da tecnologia e ciência de dados! 🚀
+         Vamos juntos explorar o mundo digital! 🚀
          
 <img height="190em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21meXFpcDJ1dmNtdWxyZ2YzNDQ5MzE5ejRidTliamt5OWM2ZTdkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GBaov9wxQCVFGS5v5e/giphy-downsized.gif"/> 
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MICHELEREGINA2022&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
