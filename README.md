@@ -18,7 +18,7 @@
 👩‍🎓 [Meu Perfil no LinkedIN](https://www.linkedin.com/in/michele-regina-bora/)  |  [Meu Currículo](https://drive.google.com/file/d/1_SnCIO1BUI16LvjuaBa4ZJg96Y3ttWF6/view?usp=sharing)
    
 
-📚 Escritora e editora de minha própria revista. [Revista Vinhos Capitulares](https://revistavinhoscapitulares.online/) | [Academia.edu](https://independent.academia.edu/ReginaMichele)
+📚 Escritora e editora de minha própria revista. [Revista Vinhos Capitulares](https://revistavinhoscapitulares.netlify.app/) | [Academia.edu](https://independent.academia.edu/ReginaMichele)
 
 </div>
 
