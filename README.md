@@ -12,13 +12,13 @@
 
 </br>
 
-🚀 **Desenvolvedora de Software Júnior & Escritora nas Horas Vagas**
+🚀 **Desenvolvedora de Software & Escritora**
 
 
-👩‍🎓 [Meu Perfil no LinkedIN](https://www.linkedin.com/in/michele-regina-bora/)  |  [Meu Currículo](https://drive.google.com/file/d/1_SnCIO1BUI16LvjuaBa4ZJg96Y3ttWF6/view?usp=sharing)
+👩‍🎓 [Meu Perfil no LinkedIn](https://www.linkedin.com/in/michele-regina-bora/)  |  [Meu Website](https://michelereginadev.site/)
    
 
-📚 Escritora e editora de minha própria revista. [Revista Vinhos Capitulares](https://revistavinhoscapitulares.netlify.app/) | [Academia.edu](https://independent.academia.edu/ReginaMichele)
+📚 Escrevo sobre Engenharia de Software [Medium.com/@micheleregina.dev](https://medium.com/@micheleregina.dev) 
 
 </div>
 
