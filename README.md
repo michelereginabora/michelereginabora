@@ -6,8 +6,8 @@
   <div style="width: 30%;">
     
 <img height="190em" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif"/> 
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MICHELEREGINA2022&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff58ae&text_color=FFF"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MICHELEREGINA2022&show_icons=true&theme=radical"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MICHELEREGINABORA&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff58ae&text_color=FFF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MICHELEREGINABORA&show_icons=true&theme=radical"/>
 </div>
 
 </br>
