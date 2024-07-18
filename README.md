@@ -6,8 +6,30 @@
   <div style="width: 30%;">
     
 <img height="190em" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif"/> 
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MICHELEREGINABORA&layout=compact&bg_color=000&border_color=30A3DC&title_color=ff58ae&text_color=FFF"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MICHELEREGINABORA&show_icons=true&theme=radical"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHELEREGINABORA&hide_progress=true&langs_count=8&show_icons=true&theme=date_night"
+    media="(prefers-color-scheme: dark )"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHELEREGINABORA&show_icons=true"
+    media="(prefers-color-scheme: transparent ), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHELEREGINABORA&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MICHELEREGINABORA&show_icons=true&theme=date_night"
+    media="(prefers-color-scheme: dark )"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MICHELEREGINABORA&show_icons=true"
+    media="(prefers-color-scheme: transparent ), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MICHELEREGINABORA&show_icons=true" />
+</picture>
+
 </div>
 
 </br>
